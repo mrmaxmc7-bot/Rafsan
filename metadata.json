@@ -1,0 +1,6 @@
+{
+  "name": "sksumonxhikder - Cyber-Horror Studio",
+  "description": "Ultra-modern cyber-horror story studio and natural voice generator with ambient soundboard, nightmare mode, and real-time audio visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
